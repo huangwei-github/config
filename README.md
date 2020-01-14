@@ -1,1 +1,3 @@
-configurations
+configurations:
+
+- vim配置文件
