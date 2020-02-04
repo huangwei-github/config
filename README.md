@@ -1,3 +1,4 @@
-configurations:
+huangwei's pc configurations:
 
-- vim配置文件
+- vim configuration(.vimrc)
+
